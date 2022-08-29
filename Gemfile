@@ -17,6 +17,7 @@ group :development, :test do
 end
 group :development do
  gem "web-console", "4.2.0"
+ gem 'htmlbeautifier'
 end
 group :test do
  gem "capybara", "3.37.1"
